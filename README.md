@@ -1,4 +1,4 @@
-# Scheduler
+# Course Scheduler
 A general schedule creator for a high school or a school with a similar structure. Created using Java. Schedule creation is done with a backtracking algorithm.
 
 ## Running the Program
