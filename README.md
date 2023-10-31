@@ -1,5 +1,5 @@
 # Course Scheduler
-A general schedule creator for a high school or a school with a similar structure. Created using Java. Schedule creation is done with a backtracking algorithm.
+A general schedule creator for a high school or a school with a similar structure that creates a schedule based on available courses as well as student course rankings. Created using Java. Schedule creation is done with a backtracking algorithm.
 
 ## Running the Program
 In order to create a schedule with sample inputs, simply execute Main.java. In order to create a schedule with your own inputs, edit the inputs in Main.java to create your custom schedule. The parameters are set by instantiating an Organizer object, and the schedule is created by calling the solve method. 
